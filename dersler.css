@@ -236,49 +236,65 @@
 @media screen and (max-width:375px) {
     .dp1{
         scale: 33% !important;
-        position: absolute;
+        position: absolute!important;
         left: -70% !important;
-        top: -3%;
+        top: -3%!important;
     }
     .a1{
-        text-align: center;
-        color: white;
-        font-style: normal;
-        position: absolute;
-        top: 3%;
-        font-family: 'Roboto Mono', monospace;
-        background-color: #FCA311;
-        padding: 1%;
-        border-radius: 15px;
-        font-size: 10px;
-        left: 8%;
-        text-decoration: none;
+        text-align: center!important;
+        color: white!important;
+        font-style: normal!important;
+        position: absolute!important;
+        top: 3%!important;
+        font-family: 'Roboto Mono', monospace!important;
+        background-color: #FCA311!important;
+        padding: 1%!important;
+        border-radius: 15px!important;
+        font-size: 10px!important;
+        left: 8%!important;
+        text-decoration: none!important;
     }
     .a2{
-        color: white ;
-        font-style: normal ;
-        position: absolute ;
-        top: 3%;
-        font-family: 'Roboto Mono', monospace ;
-        background-color: #FCA311 ;
-        padding: 1%;
-        border-radius: 18px;
-        font-size: 10px ;
-        left: 73%;
-        text-decoration: none;
+        color: white !important;
+        font-style: normal!important ;
+        position: absolute !important;
+        top: 3%!important;
+        font-family: 'Roboto Mono', monospace !important;
+        background-color: #FCA311 !important;
+        padding: 1%!important;
+        border-radius: 18px!important;
+        font-size: 10px !important;
+        left: 73%!important;
+        text-decoration: none!important;
     }
     .a3{
-        text-align: center;
-        color: white;
-        font-style: normal;
-        position: absolute;
+        text-align: center!important;
+        color: white!important;
+        font-style: normal!important;
+        position: absolute!important;
         top: 3%;
-        font-family: 'Roboto Mono', monospace;
-        background-color: #FCA311;
-        padding: 1%;
-        border-radius: 15px;
-        font-size: 10px;
-        left: 47%;
-        text-decoration: none;
+        font-family: 'Roboto Mono', monospace!important;
+        background-color: #FCA311!important;
+        padding: 1%!important;
+        border-radius: 15px!important;
+        font-size: 10px!important;
+        left: 47%!important;
+        text-decoration: none!important;
     }   
+    .sbGuvenlikBilgi{
+    
+        color: white !important;
+        font-family:'Roboto Mono', monospace !important;
+        background-color: #FCA311 !important;
+        padding: 1% !important;
+        position: absolute;
+        left: 4%;
+        right: 2%;
+        margin-right: 2% !important;
+        margin-bottom: 0 !important;
+        top: 70%;
+        font-size: 20px;
+        
+    }
+
 }
